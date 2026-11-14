@@ -47,6 +47,7 @@ Las organizaciones que gestionan información sensible o necesitan buzones compa
 ### Documentación disponible
 
 - [Arquitectura de referencia](docs/es/architecture.md)
+- [Guía 01 — Preparación y requisitos](docs/es/guides/01-prerequisites.md)
 
 ### Próximas guías
 
