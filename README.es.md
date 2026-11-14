@@ -55,20 +55,6 @@ Las organizaciones que gestionan información sensible o necesitan buzones compa
 - [Guía 06 — SPF, DKIM y DMARC](docs/es/guides/06-spf-dkim-dmarc.md)
 - [Guía 07 — Pruebas, seguridad, costes y limitaciones](docs/es/guides/07-validation-security-costs.md)
 
-### Próximas guías
-
-Está prevista la publicación de las siguientes guías:
-
-1. Arquitectura y selección de tecnologías
-2. Despliegue de una web estática
-3. Configuración del dominio y DNS
-4. Reenvío de correo mediante Cloudflare
-5. Configuración SMTP y autenticación
-6. Pruebas, seguridad, mantenimiento y resolución de problemas
-7. Análisis de costes y limitaciones
-
-La documentación se incorporará progresivamente después de su revisión técnica.
-
 ## Costes y limitaciones
 
 Los planes gratuitos pueden reducir los costes recurrentes, pero no eliminan el coste del dominio, el trabajo administrativo, el mantenimiento ni los riesgos operativos.

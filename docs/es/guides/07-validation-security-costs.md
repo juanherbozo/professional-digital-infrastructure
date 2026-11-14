@@ -192,7 +192,7 @@ La calidad de la solución no depende del número de servicios contratados, sino
 ## 14. Referencias
 
 - [Cloudflare Pages](https://developers.cloudflare.com/pages/)
-- [Cloudflare Email Routing](https://developers.cloudflare.com/email-routing/)
+- [Cloudflare Email Routing](https://developers.cloudflare.com/email-service/)
 - [Astro Documentation](https://docs.astro.build/)
 - [RFC 7489 — DMARC](https://www.rfc-editor.org/rfc/rfc7489)
 - [Implementación JH-Web](https://juanherbozo.com/es/projects/jh-web-personal-digital-platform/)

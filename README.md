@@ -55,20 +55,6 @@ Organizations handling sensitive information, requiring shared mailboxes, formal
 - [Guide 06 — SPF, DKIM and DMARC](docs/en/guides/06-spf-dkim-dmarc.md)
 - [Guide 07 — Validation, Security, Costs and Limitations](docs/en/guides/07-validation-security-costs.md)
 
-### Documentation roadmap
-
-The following guides are planned:
-
-1. Architecture and technology selection
-2. Static website deployment
-3. Domain and DNS configuration
-4. Email forwarding with Cloudflare
-5. SMTP configuration and authentication
-6. Testing, security, maintenance, and troubleshooting
-7. Cost analysis and architectural limitations
-
-Documentation will be added progressively after technical review.
-
 ## Costs and limitations
 
 Free service tiers can reduce recurring subscription costs, but they do not eliminate domain fees, administrative effort, maintenance, or operational risks.
