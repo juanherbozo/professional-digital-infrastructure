@@ -49,6 +49,7 @@ Las organizaciones que gestionan información sensible o necesitan buzones compa
 - [Arquitectura de referencia](docs/es/architecture.md)
 - [Guía 01 — Preparación y requisitos](docs/es/guides/01-prerequisites.md)
 - [Guía 02 — Astro, GitHub y Cloudflare Pages](docs/es/guides/02-astro-github-cloudflare-pages.md)
+- [Guía 03 — Dominio y configuración DNS](docs/es/guides/03-domain-dns.md)
 
 ### Próximas guías
 
