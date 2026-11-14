@@ -48,6 +48,7 @@ Organizations handling sensitive information, requiring shared mailboxes, formal
 
 - [Reference Architecture](docs/en/architecture.md)
 - [Guide 01 — Preparation and Prerequisites](docs/en/guides/01-prerequisites.md)
+- [Guide 02 — Astro, GitHub and Cloudflare Pages](docs/en/guides/02-astro-github-cloudflare-pages.md)
 
 ### Documentation roadmap
 
