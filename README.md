@@ -51,6 +51,7 @@ Organizations handling sensitive information, requiring shared mailboxes, formal
 - [Guide 02 — Astro, GitHub and Cloudflare Pages](docs/en/guides/02-astro-github-cloudflare-pages.md)
 - [Guide 03 — Domain and DNS Configuration](docs/en/guides/03-domain-dns.md)
 - [Guide 04 — Cloudflare Email Routing and Gmail](docs/en/guides/04-email-routing-gmail.md)
+- [Guide 05 — Thunderbird and SMTP Configuration](docs/en/guides/05-thunderbird-smtp.md)
 
 ### Documentation roadmap
 
