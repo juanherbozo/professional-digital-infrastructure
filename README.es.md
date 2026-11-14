@@ -50,6 +50,7 @@ Las organizaciones que gestionan información sensible o necesitan buzones compa
 - [Guía 01 — Preparación y requisitos](docs/es/guides/01-prerequisites.md)
 - [Guía 02 — Astro, GitHub y Cloudflare Pages](docs/es/guides/02-astro-github-cloudflare-pages.md)
 - [Guía 03 — Dominio y configuración DNS](docs/es/guides/03-domain-dns.md)
+- [Guía 04 — Cloudflare Email Routing y Gmail](docs/es/guides/04-email-routing-gmail.md)
 
 ### Próximas guías
 
