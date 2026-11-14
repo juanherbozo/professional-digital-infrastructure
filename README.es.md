@@ -52,6 +52,7 @@ Las organizaciones que gestionan información sensible o necesitan buzones compa
 - [Guía 03 — Dominio y configuración DNS](docs/es/guides/03-domain-dns.md)
 - [Guía 04 — Cloudflare Email Routing y Gmail](docs/es/guides/04-email-routing-gmail.md)
 - [Guía 05 — Thunderbird y configuración SMTP](docs/es/guides/05-thunderbird-smtp.md)
+- [Guía 06 — SPF, DKIM y DMARC](docs/es/guides/06-spf-dkim-dmarc.md)
 
 ### Próximas guías
 

@@ -52,6 +52,7 @@ Organizations handling sensitive information, requiring shared mailboxes, formal
 - [Guide 03 — Domain and DNS Configuration](docs/en/guides/03-domain-dns.md)
 - [Guide 04 — Cloudflare Email Routing and Gmail](docs/en/guides/04-email-routing-gmail.md)
 - [Guide 05 — Thunderbird and SMTP Configuration](docs/en/guides/05-thunderbird-smtp.md)
+- [Guide 06 — SPF, DKIM and DMARC](docs/en/guides/06-spf-dkim-dmarc.md)
 
 ### Documentation roadmap
 
