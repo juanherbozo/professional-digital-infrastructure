@@ -14,7 +14,7 @@ Construir una presencia digital profesional no siempre requiere infraestructura 
 
 Este proyecto explora cómo combinar tecnologías existentes y servicios cloud para crear una solución digital mantenible y controlar los costes recurrentes.
 
-Está basado en la implementación real de **JH-Web — Personal Digital Platform**.
+Está basado en la implementación real de **Personal Digital Platform**.
 
 ## Arquitectura
 
